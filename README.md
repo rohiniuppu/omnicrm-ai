@@ -1,5 +1,8 @@
 # OmniCRM AI - AI-Native Mini CRM for Shopper Engagement
 
+🚀 **Live Demo**: [https://omnicrm-ai-five.vercel.app](https://omnicrm-ai-five.vercel.app)
+🔧 **Backend API**: [https://omnicrm-ai-production.up.railway.app](https://omnicrm-ai-production.up.railway.app)
+
 OmniCRM AI is a next-generation marketing automation CRM that helps retail brands manage customers, log purchases, isolate target audiences using rule builders or Gemini-powered natural language queries, draft campaigns with AI copywriting, and track deliveries using a simulated callback channel service.
 
 ## Tech Stack
